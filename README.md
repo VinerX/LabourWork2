@@ -1,2 +1,2 @@
 Регулярное выражение получилось огромным, но вроде рабочим, что показывает данная картинка.
-[image](https://user-images.githubusercontent.com/60321176/206733180-b1fce3c2-3a81-442b-a992-af080ab41a98.png)
+![Screenshot_1](https://user-images.githubusercontent.com/60321176/206733547-1598999a-fcf0-49e5-8e70-1582af36ffd5.png)
